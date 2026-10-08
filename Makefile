@@ -12,6 +12,7 @@ src/preconditioners.cpp \
 src/utilities.cpp \
 src/iterative.cpp \
 src/direct.cpp \
+src/krylov.cpp \
 src/main.cpp
 
 TARGET = poisson_solver
